@@ -1,2 +1,2 @@
 # ReactToDoTasks
-Exploratory project using .NET Core and ReactJS
+Exploratory project using ASP.NET and ReactJS
