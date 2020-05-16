@@ -1,2 +1,2 @@
 # ReactToDoTasks
-Exploratory project using ASP.NET and ReactJS
+Exploratory project using Python Django and ReactJS.
